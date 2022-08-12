@@ -1,4 +1,4 @@
-module github.com/iand/gedcom
+module github.com/twobitsin/gedcom
 
 go 1.16
 
